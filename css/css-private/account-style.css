@@ -1,0 +1,26 @@
+.account{
+  width:900px;
+  background-color: #fbfafd;
+  margin:10px auto;
+}
+.title{
+  text-align: center;
+  padding:20px 0;
+  margin:0;
+}
+.info div{
+  margin:10px 0 10px 40px;
+}
+.change{
+  margin-bottom:20px;
+}
+form{
+  margin:0;
+  padding:0 0 20px 0;
+}
+.exit{
+  margin:80px 0 0 75%;
+}
+.cancel{
+  margin-left:10px;
+}
